@@ -18,7 +18,7 @@
     "express": "^4.17.1",
     "helmet": "^3.22.0",
     "joi": "^14.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.9.15",
     "monk": "^7.3.0",
     "nodemon": "^2.0.4",
